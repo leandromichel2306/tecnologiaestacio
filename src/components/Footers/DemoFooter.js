@@ -58,7 +58,7 @@ function DemoFooter() {
           <div className="credits ml-auto">
             <span className="copyright">
               © {new Date().getFullYear()}, feito com{" "}
-              <i className="fa fa-heart heart" /> por Marcelo Henrique
+              <i className="fa fa-heart heart" /> por Marcelo Henrique e Leandro Michel
             </span>
           </div>
         </Row>
